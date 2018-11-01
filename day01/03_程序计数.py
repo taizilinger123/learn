@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
-i = 1
-while i <= 3:
-    print("Hello World")
+i = 0
+while i < 3:
+    print("Hello Python")
     #i = i + 1
     i += 1
 
